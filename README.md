@@ -51,7 +51,7 @@ for name in lst: print(name)```
 ## iClicker
 We will use iClicker in class starting on Thursday 11/25. If you have not already done so, please make sure you have a UCSB iClicker student account ready. 
 Here is a [link](https://help.lsit.ucsb.edu/hc/en-us/articles/360054938191-iClicker-Cloud-for-Students) with the pertinent information. 
-The join link for the course is [here](https://join.iclicker.com/YPHM). If the ink does not work, try searching for "iQB2 - Structural Biology Module" in the iClicker search interface. 
+The join link for the course is [here](https://join.iclicker.com/SRHU). If the ink does not work, try searching for "iQB2 - Structural Biology Module" in the iClicker search interface. 
 Be aware that the in-class iClicker activities will count towards your grades. I will give credit for participation only, the correctness of the answers will not influence the grades. 
 
 ## Grading
