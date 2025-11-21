@@ -35,8 +35,9 @@ Here is the Python code I used to get the randomized list:
 from random import shuffle
 lst = [i[:-1] for i in open('student_list.txt').readlines()]
 shuffle (lst)
-for name in lst: print(name)
--->```
+for name in lst: print(name)```
+
+-->
 
 ## General Information
 
@@ -73,5 +74,34 @@ The following is the approximate schedule for this course. Exact order is subjec
 |Tuesday	| 12/02	| Lecture	| Short Break	| Processing Practicals	| Lunch Break	| CryoEM Facility Visit |
 |Thursday	| 12/04	| Lecture	| Short Break	| Processing Practicals	| Lunch Break	| Processing Practicals (ends at 3PM) |
 |Friday	| 12/05	| Presentations	| Short Break	| Presentations	| Lunch Break	| Presentations |
+<!--
+<br>
+<br>
 
+## Login Instructions
 
+### Powershell (Windows)
+
+```
+$env:DISPLAY="localhost:0.0"
+
+ssh -Y user0#@lama.chem.ucsb.edu
+
+     password: igb2_user0#
+
+cd practicals/relion/tutorial
+relion &
+```
+### Terminal (Apple or Linux)
+
+```
+DISPLAY="localhost:0.0"
+
+ssh -Y user0#@lama.chem.ucsb.edu
+
+     password: igb2_user0#
+
+cd practicals/relion/tutorial
+relion &
+```
+-->
