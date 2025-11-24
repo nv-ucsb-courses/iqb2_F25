@@ -69,7 +69,6 @@ The following is the approximate schedule for this course. Exact order is subjec
 |-----|-------|-------------|-------------|-------------|------------|------------|
 |Monday	| 11/24	| Lecture	| Short Break	| Lecture	| Lunch Break	| Processing Practicals |
 |Tuesday | 11/25	| Lecture	| Short Break	| Lecture	| Lunch Break	| Processing Practicals |
-|Friday	| 11/15	| Lecture	| Short Break	| Lecture	| Lunch Break	| Processing Practicals |
 |Monday	| 12/01	| Lecture	| Short Break	| Processing Practicals	| Lunch Break	| CryoEM Sample Prep Lab Visit  |
 |Tuesday	| 12/02	| Lecture	| Short Break	| Processing Practicals	| Lunch Break	| CryoEM Facility Visit |
 |Thursday	| 12/04	| Lecture	| Short Break	| Processing Practicals	| Lunch Break	| Processing Practicals (ends at 3PM) |
