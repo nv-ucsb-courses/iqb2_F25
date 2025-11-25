@@ -78,7 +78,7 @@ The following is the approximate schedule for this course. Exact order is subjec
 <br>
 
 ## Login Instructions
-Replace the '#' signs below with your assigned number (see table below)
+Replace the '#' signs in the code blocks below with your assigned number (see table)
 
 ### Powershell (Windows)
 
