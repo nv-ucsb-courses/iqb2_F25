@@ -77,6 +77,7 @@ The following is the approximate schedule for this course. Exact order is subjec
 <br>
 <br>
 
+<!--
 ## Login Instructions
 Replace the '#' signs in the code blocks below with your assigned number (see table)
 
@@ -103,6 +104,9 @@ cd practicals/relion/tutorial
 relion &
 ```
 <br>
+-->
+
+## User/GPU Assignments
 
 | Name      | # | GPU id |
 |-----------|---|:------:|
