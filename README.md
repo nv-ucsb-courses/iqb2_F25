@@ -73,11 +73,12 @@ The following is the approximate schedule for this course. Exact order is subjec
 |Tuesday	| 12/02	| Lecture	| Short Break	| Processing Practicals	| Lunch Break	| CryoEM Facility Visit |
 |Thursday	| 12/04	| Lecture	| Short Break	| Processing Practicals	| Lunch Break	| Processing Practicals (ends at 3PM) |
 |Friday	| 12/05	| Presentations	| Short Break	| Presentations	| Lunch Break	| Presentations |
-<!--
+
 <br>
 <br>
 
 ## Login Instructions
+Replace the '#' signs below with your assigned number (see table below)
 
 ### Powershell (Windows)
 
@@ -94,8 +95,6 @@ relion &
 ### Terminal (Apple or Linux)
 
 ```
-DISPLAY="localhost:0.0"
-
 ssh -Y user0#@lama.chem.ucsb.edu
 
      password: igb2_user0#
@@ -103,4 +102,14 @@ ssh -Y user0#@lama.chem.ucsb.edu
 cd practicals/relion/tutorial
 relion &
 ```
--->
+<br>
+
+| Name      | # | GPU id |
+|-----------|---|:------:|
+| Brennen   | 1 |    0   |
+| Pearly    | 2 |    0   |
+| Katherine | 3 |    1   |
+| Max/Ani   | 4 |    1   |
+| Xieergai  | 5 |    2   |
+| Binbin    | 6 |    2   |
+| Izaiah    | 7 |    3   |
