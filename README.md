@@ -4,7 +4,7 @@
 
 <!-- ## Homework
 
-Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2/tree/main/homework). Return by email by December 10nd, 11:59PM.
+Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2/tree/main/homework). Return by email by December 10th, 11:59PM.
 -->
 
 ## Presentation Order
