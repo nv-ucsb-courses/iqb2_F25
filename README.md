@@ -15,10 +15,10 @@ Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2/tree/main/hom
 | **Pearly**         |  10:30 - 11:00 | Proteasomes: Asano et al. 2015 |
 | *Break*            |  11:00 - 11:10 |   |
 | **Katherine**      |  11:10 - 11:40 | Arp2/3: Anderson et al. 2016 |
-| **Xieergai**       |  11:40 - 12:10 | *Actomypson: Robert-Paganin et al, 2021*  |
+| **Xieergai**       |  11:40 - 12:10 | Ribosome: Fischer et al. 2010  |
 | *Lunch Break*      |  12:10 - 1:10  |   |
 | **Max**            |  1:10 - 1:40   | SARS-CoV-2: Yao et al. 2020 |
-| **Brennen**        |  1:40 - 2:10   | *Atomic resolution: Nakane et al. 2020* |
+| **Brennen**        |  1:40 - 2:10   | Bacteriophage: Hu et al. 2015 |
 | *Break*            |  2:10 - 2:30   |   |
 | **Binbin**         |  2:30 - 3:00   | CryoFIB: Rigort et al. 2010 |
 | **Izaiah**         |  3:00 - 3:30   | Actin: Oosterheert et al. 2022 |
