@@ -18,7 +18,7 @@ Homework was posted [here](https://github.com/nv-ucsb-courses/iqb2/tree/main/hom
 | **Xieergai**       |  11:40 - 12:10 | *Actomypson: Robert-Paganin et al, 2021*  |
 | *Lunch Break*      |  12:10 - 1:10  |   |
 | **Max**            |  1:10 - 1:40   | SARS-CoV-2: Yao et al. 2020 |
-| **Brennen**        |  1:40 - 2:10   | *Atomic resolution: Nakane et. al 2020* |
+| **Brennen**        |  1:40 - 2:10   | *Atomic resolution: Nakane et al. 2020* |
 | *Break*            |  2:10 - 2:30   |   |
 | **Binbin**         |  2:30 - 3:00   | CryoFIB: Rigort et al. 2010 |
 | **Izaiah**         |  3:00 - 3:30   | Actin: Oosterheert et al. 2022 |
